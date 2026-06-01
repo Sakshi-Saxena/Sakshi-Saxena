@@ -14,7 +14,7 @@
 
 ---
 
-👩‍💻 About Me
+## 👩‍💻 About Me
 
 ```yaml
 Name: Sakshi Saxena
@@ -36,7 +36,7 @@ Philosophy: "Automate everything that can be automated.
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <!-- Cloud -->
 <details open>
@@ -90,7 +90,7 @@ Philosophy: "Automate everything that can be automated.
 
 ---
 
-🎯 Current Focus Areas
+## 🎯 Current Focus Areas
 
 <div align="center">
 
@@ -103,7 +103,7 @@ Philosophy: "Automate everything that can be automated.
 
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -116,21 +116,21 @@ Philosophy: "Automate everything that can be automated.
 
 ---
 
-🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Sakshi-Saxena&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&column=4&row=2" />
 </div>
 
 ---
 
-📈 Contribution Activity
+## 📈 Contribution Activity
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi-Saxena&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
 
-🤝 Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
