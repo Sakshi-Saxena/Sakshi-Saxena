@@ -1,19 +1,15 @@
 <div align="center">
-
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sakshi%20Saxena&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=DevOps%20%7C%20Cloud%20%7C%20AIOps%20Engineer&descAlignY=55&descSize=20" width="100%"/>
-
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&random=false&width=600&height=55&lines=☁️+Cloud+%26+DevOps+Engineer;🔁+CI%2FCD+Pipeline+Architect;🤖+AIOps+%26+Automation+Enthusiast;📦+Kubernetes+%26+Docker+Specialist;🚀+Building+Systems+That+Scale!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=55&lines=☁️+Cloud+%26+DevOps+Engineer;🔁+CI%2FCD+Pipeline+Architect;🤖+AIOps+%26+Automation+Enthusiast;📦+Kubernetes+%26+Docker+Specialist;🚀+Building+Systems+That+Scale!" alt="Typing SVG" />
 </a>
-
 <!-- Profile Views + Followers -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Sakshi-Saxena&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Sakshi-Saxena?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=sakshi-saxena11&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sakshi-saxena11?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
 </p>
-
 </div>
 
 ---
