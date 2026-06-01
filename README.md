@@ -128,7 +128,7 @@ Philosophy: "Automate everything that can be automated.
 
 📈 Contribution Activity
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshi-saxena11&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi-Saxena&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
