@@ -7,8 +7,8 @@
 </a>
 <!-- Profile Views + Followers -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=sakshi-saxena11&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sakshi-saxena11?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Sakshi-Saxena&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Sakshi-Saxena?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
 </p>
 </div>
 
