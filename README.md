@@ -21,12 +21,12 @@
 ## 👩‍💻 About Me
 
 ```yaml
-name: Sakshi Saxena
-role: DevOps Engineer | Cloud Engineer | AIOps Enthusiast
-location: India 🇮🇳
-experience: 3+ years
+Name: Sakshi Saxena
+Role: DevOps Engineer | Cloud Engineer | AIOps Enthusiast
+Location: India 🇮🇳
+Experience: 3+ years
 
-focus:
+Focus:
   - Scalable Cloud Infrastructure (AWS / Azure / GCP)
   - CI/CD Pipeline Design & Automation
   - Container Orchestration with Kubernetes & Docker
@@ -34,7 +34,7 @@ focus:
   - AIOps & AI-driven Automation
   - Site Reliability Engineering (SRE)
 
-philosophy: "Automate everything that can be automated.
+Philosophy: "Automate everything that can be automated.
              Build systems that scale, heal systems that break."
 ```
 
@@ -150,7 +150,7 @@ philosophy: "Automate everything that can be automated.
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Sakshi-Saxena" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-sakshi--saxena11-%23181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Sakshi--Saxena-%23181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
