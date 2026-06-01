@@ -73,9 +73,7 @@ Git • GitHub • Bitbucket
 
 ---
 
-## ⚡ Fun Fact
-
-I enjoy automating everything that can be automated — because manual work doesn’t scale 🚀
+ ✨ "Automate everything that can be automated - Build systems that scale, heals system that breaks" 🚀 
 
 ---
 <!--
